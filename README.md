@@ -83,8 +83,8 @@ It helps explain:
 ---
 
 ## Materials
-- `report.pdf` – Full project report  
-- `slides.pdf` – Presentation slides  
+- [Full project report](Report.pdf)  
+- [Presentation slides](Slides.pdf)
 
 ---
 
